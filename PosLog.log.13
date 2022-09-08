@@ -1,0 +1,28 @@
+2021-02-17 10:50:57,779 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ ErrorCode: Claimed  
+2021-02-17 10:50:57,801 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ ErrorCodeExtended: 0  
+2021-02-17 10:50:57,802 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ Message: Stub message. LockPort Timeout.  
+2021-02-17 10:50:57,804 FATAL to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ Stub message. LockPort Timeout.  
+2021-02-17 10:50:59,246 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ ErrorCode: Claimed  
+2021-02-17 10:50:59,248 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ ErrorCodeExtended: 0  
+2021-02-17 10:50:59,249 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ Message: Stub message. LockPort Timeout.  
+2021-02-17 10:50:59,250 FATAL to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ Stub message. LockPort Timeout.  
+2021-02-17 10:50:59,264 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt resetPrinter - 2724 
+ ErrorCode: Closed  
+2021-02-17 10:50:59,266 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt resetPrinter - 2724 
+ ErrorCodeExtended: 0  
+2021-02-17 10:50:59,266 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt resetPrinter - 2724 
+ Message: not opened  
+2021-02-17 10:50:59,483 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt CreateToken - 20801 
+ Errore CreateToken TillID : =AAAA0001  
+2021-02-17 10:50:59,688 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt CreateToken - 20801 
+ Errore CreateToken TillID : =AAAA0001  
+2021-02-17 10:50:59,892 ERROR to\PosTestWithNunit\XmlFolder\TestServer.xml FiscalReceipt.Library.FiscalReceipt CreateToken - 20801 
+ Errore CreateToken TillID : =AAAA0001  

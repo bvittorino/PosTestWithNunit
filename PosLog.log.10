@@ -1,0 +1,20 @@
+2021-02-17 14:57:32,169 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ ErrorCode: Claimed  
+2021-02-17 14:57:32,194 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ ErrorCodeExtended: 0  
+2021-02-17 14:57:32,195 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ Message: Stub message. LockPort Timeout.  
+2021-02-17 14:57:32,196 FATAL to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt initFiscalDevice - 282 
+ Stub message. LockPort Timeout.  
+2021-02-17 14:57:44,894 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt SetATECOCode - 18102 
+ ErrorCode: Extended  
+2021-02-17 14:57:44,896 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt SetATECOCode - 18102 
+ ErrorCodeExtended: 207  
+2021-02-17 14:57:44,897 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt SetATECOCode - 18102 
+ Message: Stub message. UPOS_EFPTR_WRONG_STATE.  
+2021-02-17 14:57:51,645 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt SetATECOCode - 18102 
+ ErrorCode: Extended  
+2021-02-17 14:57:51,647 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt SetATECOCode - 18102 
+ ErrorCodeExtended: 207  
+2021-02-17 14:57:51,649 ERROR to\PosTestWithNunit\XmlFolder\TestCNR.xml FiscalReceipt.Library.FiscalReceipt SetATECOCode - 18102 
+ Message: Stub message. UPOS_EFPTR_WRONG_STATE.  
